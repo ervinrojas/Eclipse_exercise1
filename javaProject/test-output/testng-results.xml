@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-09T14:50:32 COT" name="Default suite" finished-at="2022-08-09T14:51:18 COT" duration-ms="46626">
+    <groups>
+    </groups>
+    <test started-at="2022-08-09T14:50:32 COT" name="Default test" finished-at="2022-08-09T14:51:18 COT" duration-ms="46626">
+      <class name="com.packagefactory.comUnosquare">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.packagefactory.comUnosquare@54bff557]" started-at="2022-08-09T14:50:32 COT" name="beforeClass" finished-at="2022-08-09T14:50:36 COT" duration-ms="4604" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="Test()[pri:0, instance:com.packagefactory.comUnosquare@54bff557]" started-at="2022-08-09T14:50:36 COT" name="Test" finished-at="2022-08-09T14:51:18 COT" duration-ms="41997" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+      </class> <!-- com.packagefactory.comUnosquare -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
